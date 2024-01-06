@@ -1,0 +1,15 @@
+h3{
+    color: blue;
+    background-color: aquamarine;
+    border: 5px;
+    border-radius: 5px;
+    box-shadow: darkblue 5px 5px 5px;
+    text-align: 50%;
+}
+p{
+    color: aquamarine;
+    background-color: darkgreen;
+    border: 5px;
+    border-radius: 5px;
+    padding: 5px;
+}
